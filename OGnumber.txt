@@ -1,0 +1,3 @@
+Species Sequence    Source
+Lycoris_sprengeri   DN10005_c0_g1_i1.p1 OG00045
+Hippeastrum_reticulatum DN1000_c0_g1_i1.p1  OG00052
